@@ -1,0 +1,64 @@
+[
+  {
+    "course_id": "DS2002",
+    "section": "001",
+    "title": "Data Science Systems",
+    "level": 200,
+    "instructors": [
+      {
+        "name": "Austin Rivera",
+        "role": "Primary"
+      },
+      {
+        "name": "Heywood Williams-Tracy",
+        "role": "TA"
+      }
+    ]
+  },
+  {
+    "course_id": "CS4774",
+    "title": "Machine Learning",
+    "level": 400,
+    "instructors": [
+      {
+        "name": "Hadi Daneshmand",
+        "role": "Primary"
+      }
+    ]
+  },
+  {
+    "course_id": "CS3130",
+    "section": "102",
+    "title": "Computer Systems and Organization 2",
+    "level": 300,
+    "instructors": [
+      {
+        "name": "Kevin Skadron",
+        "role": "Primary"
+      }
+    ]
+  },
+  {
+    "course_id": "DS2004",
+    "section": "001",
+    "title": "Data Ethics",
+    "level": 200,
+    "instructors": [
+      {
+        "name": "Emmanuel Moss",
+        "role": "Primary"
+      }
+    ]
+  },
+  {
+    "course_id": "RELH2090",
+    "title": "Hinduism",
+    "level": 200,
+    "instructors": [
+      {
+        "name": "Matthew Leveille",
+        "role": "Primary"
+      }
+    ]
+  }
+]

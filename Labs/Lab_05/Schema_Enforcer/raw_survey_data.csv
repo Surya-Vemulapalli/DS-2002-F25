@@ -1,0 +1,6 @@
+student_id,major,GPA,is_cs_major,credits_taken
+3628361,Cognitive Science,3.9,No,72.3
+2734936,Systems Engineering,3,No,85.0
+4628462,Computer Science,3.7,Yes,103.4
+5836497,Computer Science,4,Yes,115.2
+4628462,Data Science,3.8,No,48.8

@@ -1,0 +1,6 @@
+,student_id,major,GPA,is_cs_major,credits_taken
+0,3628361,Cognitive Science,3.9,False,72.3
+1,2734936,Systems Engineering,3.0,False,85.0
+2,4628462,Computer Science,3.7,True,103.4
+3,5836497,Computer Science,4.0,True,115.2
+4,4628462,Data Science,3.8,False,48.8
