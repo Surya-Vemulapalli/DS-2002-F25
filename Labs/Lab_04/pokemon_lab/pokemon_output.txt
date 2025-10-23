@@ -1,0 +1,39 @@
+make Test
+--- Running Test Pipeline (Built-in Test Modes) ---
+Going to test mode
+New csv file created
+The total portfolio costs 326.55 dollars and the most valuable card's details: [[1 28 'base0-4' 'Charizard' 250.75]]
+Test complete
+
+make Add_Set
+--- Adding new card set ---
+TCG Card Set ID: base1
+Fetching data from base1. 
+
+ make Add_Set
+--- Adding new card set ---
+TCG Card Set ID: base4
+Fetching data from base4. 
+Success.
+
+make all
+--- Starting Portfolio Build Workflow ---
+Do you want to add a NEW card set? (yes/no)
+no
+Do you want to refresh ALL existing card sets? (yes/no)
+yes
+make[1]: Entering directory '/workspaces/DS-2002-F25/Labs/Lab_04/pokemon_lab'
+--- Refreshing All Card Sets ---
+Refreshing all card sets in card set lookup
+updating set
+Written into card_set_lookup/base1.json
+updating set
+Written into card_set_lookup/base4.json
+All cards have been refreshed
+make[1]: Leaving directory '/workspaces/DS-2002-F25/Labs/Lab_04/pokemon_lab'
+Started...
+Updating the portfolio
+New csv file created
+Reporting...
+The total portfolio costs 5690.34 dollars and the most valuable card's details: [[183 114 'base1-4' 'Charizard' 459.2]]
+Completed
